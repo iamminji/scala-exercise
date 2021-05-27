@@ -1,4 +1,4 @@
-package fpinscala.exercise
+package exercise
 
 import scala.annotation.tailrec
 import scala.math.abs

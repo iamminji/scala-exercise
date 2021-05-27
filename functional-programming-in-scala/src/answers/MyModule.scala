@@ -1,4 +1,4 @@
-package fpinscala.answers
+package answers
 
 import scala.annotation.tailrec
 
@@ -24,7 +24,6 @@ object MyModule {
 
         loop(0, 1)
     }
-
     // B => C 가 f:(A, B) => C 에서 이므로 C 를 f(a, b)
     // A => B => C 가 결국
     // (a: A) => (b: B) => f(a, b) 가 됨
